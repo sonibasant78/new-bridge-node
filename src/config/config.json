@@ -1,0 +1,34 @@
+{
+  "local": {
+    "PORT": 9000,
+    "MONGODB_URI": "mongodb+srv://bridge:bridge@cluster0.dwqbktj.mongodb.net/?retryWrites=true&w=majority",
+    "SMTP_HOST":"smtp-relay.sendinblue.com",
+    "SMTP_PORT":587,
+    "SMTP_USER":"joseph@bridgeme.us",
+    "SMTP_PASS":"4c91gwtydafM0WUx",
+    "RESET_KEY":"123bridge",
+    "ZAPIKey":"KSVoxdyPS8ypdSktHEgZVQ",
+    "ZAPISecretKey":"lTX020s1eaY4HC0btFlDryJbcj7QGtziWadE",
+    "API Key":"cmX4qd9ASH295FmfDzEcsA",
+    "API Secret":"ssINe80tLY0GzuDCU9G5okr8YynwJUKcYGiv"
+  },
+  "development": {
+    "PORT": 9000,
+    "MONGODB_URI": "mongodb+srv://bridge:bridge@cluster0.dwqbktj.mongodb.net/?retryWrites=true&w=majority",
+    "SMTP_HOST":"smtp-relay.sendinblue.com",
+    "SMTP_PORT":587,
+    "SMTP_USER":"joseph@bridgeme.us",
+    "SMTP_PASS":"4c91gwtydafM0WUx",
+    "RESET_KEY":"123bridge",
+    "ZAPIKey":"KSVoxdyPS8ypdSktHEgZVQ",
+    "ZAPISecretKey":"lTX020s1eaY4HC0btFlDryJbcj7QGtziWadE",
+    "API Key":"cmX4qd9ASH295FmfDzEcsA",
+    "API Secret":"ssINe80tLY0GzuDCU9G5okr8YynwJUKcYGiv"
+  },
+  "production": {
+    "PORT": 80,
+    "MONGODB_URI": "mongodb://xxxxx/DB_Name",
+    "ZAPIKey":"",
+    "ZAPISecretKey":""
+  }
+}
